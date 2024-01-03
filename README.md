@@ -4,8 +4,6 @@ Explore this repository to discover Jupyter notebooks showcasing various techniq
 
 ### What's Inside?
 📈 Visualizations using Matplotlib, Seaborn, and Pandas.<br>
-📚 Examples of data cleaning, feature engineering, and statistical analysis.<br>
-🧩 Techniques to handle missing data and outliers.<br>
 📑 Insightful commentary and explanations to guide your own analyses.<br>
 
 You're welcome to use the code for personal or commercial projects.<br>
