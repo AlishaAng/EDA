@@ -6,6 +6,7 @@ Explore this repository to discover Jupyter notebooks showcasing various techniq
 📈 Visualizations using Matplotlib, Seaborn, and Pandas.<br>
 🧩 Statistical techniques. <br>
 📑 Insightful commentary and explanations to guide your own analyses.<br>
+📁 Datasets: https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data 
 
 You're welcome to use the code for personal or commercial projects.<br>
 
